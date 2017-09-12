@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\63eb9ca06260fbbcd4c787601776ecdaeefa28fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_38b01760ba4aae7508c6c62a547111bfa046d178.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\eb8a19782dcccb323b6ac62479a16624f004f234\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_ef247cb2836dcfc557c901093f6cdcc12f1f5964.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\cd17216e29019de507272f35a0f470c0faf33fa5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_477c086411e76f7c5697e717745a852077878ec8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\6974a88c45e5ebcb9debe9835820c44052406ba2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_8d88ebf336478b5221632e1e535b042ce453b298.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\96662f07a928a273fc19d690729455777c819fc1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_48383e25ef907c9fda0bdd7ec717b98e00a53241.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\71f6d1318df815d0881305dc93f5791b3926fcb7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_855a78e650f71b58833a0cfae0a8ff0074b1e803.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\aeba6b034bd20f4ef4e63b86897c308cd658b67b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_e6d6b10a31ba53538ce3c6a59d5510c1d29874c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\b60dc396f6f8e42d622f4acd4b62ffe5acae043e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734f779fc6347fe6932ae0ae510f958aadf55e45">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_a30e9f322ae5a475672b0c7599e5875b057bad87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_ac8125694277611a1859c4834b91673f931e3e09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\0ee2ffe615801244880f32796ef43fbedf7f60f1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_434d9d0c753afe9939cb0602c9a6f60a368459f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\f3873ce97abd4491ba3b3e37bcbcacd98a634904\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_23d098d2dff4698dc9b6c086002875ef3e311123.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\b0c946eaa9573907de33e145aa7e00d512f43e20\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_dc0d78423132c1dc6f251fbf52ccf24f6782f16c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\e0d6f3577f07453ac0f02b3b2e81145756d24cd9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_7efb92df9d6f9a09caeaabbfb46ad53b4be2ace7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\8441990eed9951d4ba4cc3752d4d81fe0311e45f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cb86970df0f0f25f766d320b279c7858c1ca0003">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_327646f6ee00adf87f5652cf8ec3e642c233a2cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\aeba6b034bd20f4ef4e63b86897c308cd658b67b\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_99108c8f92209ed4e4f8905f60c154ef20750783.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\6c45915accb2eb74ec1761756a43d2a04db36fc6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_0d16aede97e652b226d33189fdeb1b286e571096.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\358a844d8bc5c32e227362d25ceb64cc31c57c0f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_d37c805a6ad69583bc2a18b417ab517dfb52e681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\835f2bccff4ca2b649b29536ec55bfcf5cbbedbe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_dbc725656f2efee1f24ab179efdd297a4831978b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\1600319789eb60d7048245718bec0b333e8695c7\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_cbf16908fe4388183b49fe17c02ac5eb365f3d63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ProgrammingLanguages\Android\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_abd97e48c62db0f9617821873c249d807251392c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\7b891458a3b21c3976a5a47fc546ed260332a333\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_ceaa27acf31eb3516e3bc929eb676301352ce6dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\44640ece16a442703b51d8466e22af41188a325b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_18c39dfbaa1380a7df4dbfe31d264cfd803d8e60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\3b61df2aa8f360943f803a3a626942845489a843\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_fd0d55cd53eaee08454600dbc0cf4c6221fe11a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\46cee6e432a063d4954347fa9bcb485cb2504607\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_6b5bb69f767e5455439fca7f21ffb93d9ba5a267.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\af6db962f8a687cb2bd7c351036d866ea9eb258a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86da97c30f50a67ddabe2cf7040713ad17153fce">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_3236793ab3e010edc8a7f1ace0389eeb28d07fc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\1600319789eb60d7048245718bec0b333e8695c7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_11bf061c8015954d88a277909f928c7c25c4e503.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ProgrammingLanguages\Android\AndroidSDK\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_cf2961e9cab6fa48a4f7e438e3f9d7ab33700dc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\fa63347dda0d35763845fc61ad1d5fc067ebc59d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e5a66a941515d873a34065fe44fbba6ef422a1b">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_ff51f7e7e01536c59f8c7f5f0518b286b8050922.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\libs\ksoap2-android-assembly-2.5.8-jar-with-dependencies.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6e6d14301616c866b7eff210ece6579299417ec">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\ksoap2-android-assembly-2.5.8-jar-with-dependencies_93437b21caef1ec55cb8b45a625bd91be8ea2f62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\2a34755158b22316a433eccd629e52fee9538461\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_c6cbfc557cb9b2200049dba6277064755cb718a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_8a58c414a52eb9f89ea96656ded5bc1511648c49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\44640ece16a442703b51d8466e22af41188a325b\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_68718298d0a0e5c26935d302ad1e0faf966090e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\b0c946eaa9573907de33e145aa7e00d512f43e20\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_ee2b73595c3ec950c4400c2e49b1732dda9e323d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\f3dd272ba6fba98e45fba4adf44dc0f76ab06f06\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_eec3ddc669917f6bbc9533add47c94c43b915469.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\835f2bccff4ca2b649b29536ec55bfcf5cbbedbe\output\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bf68806e191f54e7d0c61116d807e20695bc225f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\ac36f9781baea29ae819f0db6bf536f798e6ce10\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="647502c39ed7ca9bbf22c22d0015c77e0d06e317">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_32f7f9b59e98b47cd33f0ef7e6ef5813091812d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\b0a708255363a6fc7ac30760f52fe45182890310\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_5437db5d32a3e645a6464163e1eca4b1f4086a7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\e0ec23062f6c7b74822790bd1842104d34ae4f68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_5fb6467b5f18823608c6d17a60297c19226f6ed6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\8c025e7f44f2ca139f184639c7c4c50c3b7af3cf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2485a4d9357967fb69ff9ac323ca0e778c2c22fb">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_2ef297b4b6355370af37f6036c4a8e37e09b18e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Franky\.android\build-cache\8afb7764bdb0833f4c90f5fcd79a321ccd5cc9cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\ProgrammingLanguages\Do an\ITSecurityLearning\app\build\intermediates\pre-dexed\debug\classes_73415e09ade0656e1a25bbaf259b0a2d0be88777.jar" />
+    </item>
+
+</items>

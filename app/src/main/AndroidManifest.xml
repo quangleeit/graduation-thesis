@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.quangleeit.itsecuritylearning">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.NoActionBar">
+
+        <!-- android:theme="@style/AppTheme" -->
+
+        <activity android:name=".test.CateActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <!-- android:theme="@style/AppTheme.NoActionBar" -->
+
+        </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/app_name" />
+        <!-- android:theme="@style/AppTheme.NoActionBar" /> -->
+        <activity android:name=".courses.Course" />
+        <activity android:name=".question.ContentQuestionActivity" />
+        <activity android:name=".question.ResultActivity" >
+
+        </activity>
+        <activity android:name=".question2.QuizActivity" />
+        <activity android:name=".question2.QuizResultActivity" />
+        <activity android:name=".RegisterActivity" />
+        <activity android:name=".test.ProductActivity" />
+        <activity android:name=".lesson.LessonListActivity" />
+        <activity
+            android:name=".interview.QuestionAnswerActivity"
+            android:label="@string/title_activity_question_answer" />
+        <activity android:name=".SignupActivity" />
+        <activity android:name=".lesson.ContentLesson" />
+        <activity android:name=".teacher.TeacherActivity"></activity>
+    </application>
+
+</manifest>

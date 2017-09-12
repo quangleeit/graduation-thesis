@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_course"
+            android:icon="@drawable/ic_menu_course"
+            android:title="Môn Học" />
+
+        <item
+            android:id="@+id/nav_interview"
+            android:icon="@drawable/ic_menu_interview"
+            android:title="Giảng Viên" />
+        <!--<item-->
+            <!--android:id="@+id/nav_quiz"-->
+            <!--android:icon="@drawable/ic_menu_gallery"-->
+            <!--android:title="Bài Tập" />-->
+        <!--<item-->
+            <!--android:id="@+id/nav_favorite"-->
+            <!--android:icon="@drawable/ic_menu_slideshow"-->
+            <!--android:title="Đánh Dấu" />-->
+        <item
+            android:id="@+id/nav_score"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="My Score" />
+
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Về Chúng Tôi" />
+            <item
+                android:id="@+id/nav_send"
+
+                android:icon="@drawable/ic_menu_send"
+                android:title="Cài Đặt" />
+
+            <item
+                android:id="@+id/nav_signout"
+                android:icon="@drawable/ic_menu_l"
+                android:title="Thoát" />
+        </menu>
+    </item>
+
+    <Button
+        android:text="Button"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="right"
+        android:id="@+id/buttonLogout" />
+
+</menu>

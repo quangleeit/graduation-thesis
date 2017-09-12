@@ -1,0 +1,75 @@
+<resources>
+
+    <!--<style name = "AppTheme" parent="@android:style/Theme.NoTitleBar">-->
+        <!--<item name="android:actionBarStyle"> @style/CustomActionBar</item>-->
+    <!--</style>-->
+    <!---->
+    <!--<style name="CustomActionBar" parent="@android:style/TextAppearance.Holo">-->
+        <!--<item name="android:background">@color/colorPrimary</item>-->
+        <!--<item name="android:titleTextStyle">@style/CustomTextColor</item>-->
+    <!--</style>-->
+
+    <!--<style name="CustomTextColor" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">-->
+        <!--<item name="android:textColor">@color/colorWhite</item>-->
+    <!--</style>-->
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <!--<item name="actionBarStyle">@style/Widget.Styled.ActionBar</item>-->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+
+
+        <!--<item name="android:actionMenuTextColor">@style/MyActionBarTitleText</item>-->
+
+
+    </style>
+
+
+    <!--<style name="Widget.Styled.ActionBar" parent="@style/Widget.AppCompat.Light.ActionBar">-->
+        <!--<item name="titleTextStyle">@style/ActionBarTitleText</item>-->
+        <!--<item name="subtitleTextStyle">@style/ActionBarSubTitleText</item>-->
+    <!--</style>-->
+
+    <!--<style name="ActionBarTitleText" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">-->
+        <!--<item name="android:textColor">@color/colorPrimary</item>-->
+        <!--<item name="android:textSize">12sp</item>-->
+    <!--</style>-->
+
+    <!--<style name="ActionBarSubTitleText" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Subtitle">-->
+        <!--<item name="android:textColor">@color/colorPrimary</item>-->
+        <!--<item name="android:textSize">12sp</item>-->
+    <!--</style>-->
+
+
+    <!--<style name="AppTheme.NoActionBar">-->
+        <!--<item name="windowActionBar">false</item>-->
+        <!--<item name="windowNoTitle">true</item>-->
+        <!--<item name="android:textColorSecondary">@color/colorPrimary</item>-->
+        <!--<item name="android:textColorPrimary">@color/colorPrimary</item>-->
+        <!--&lt;!&ndash;<item name="android:actionMenuTextColor">@style/MyActionBarTitleText</item>&ndash;&gt;-->
+        <!--<item name="drawerArrowStyle">@style/DrawerArrowStyle</item>-->
+        <!--<item name="android:navigationBarColor">@color/theme_color</item>-->
+    <!--</style>-->
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@color/colorWhite</item>
+    </style>
+
+    <!--<style name="MyActionBarTitleText"-->
+        <!--parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">-->
+        <!--<item name="android:textColor">@color/colorPrimary</item>-->
+    <!--</style>-->
+
+    <style name="AppTheme.Dark.Dialog" parent="Theme.AppCompat.Dialog">
+        <item name="colorAccent">@color/monsoon</item>
+        <item name="android:textColorPrimary">@color/iron</item>
+        <item name="android:background">@color/jet</item>
+    </style>
+</resources>

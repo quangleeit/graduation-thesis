@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "718678787050",
+    "firebase_url": "https://it-security-learning.firebaseio.com",
+    "project_id": "it-security-learning",
+    "storage_bucket": "it-security-learning.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718678787050:android:49df8396c7760ea2",
+        "android_client_info": {
+          "package_name": "com.quangleeit.itsecuritylearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718678787050-5q7pmf0cvb0m123epk1d1040pr1de0fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9_M46LwIPjDlSisQivNmPj9cCoPxWBcg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

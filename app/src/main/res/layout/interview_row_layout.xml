@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="3dp"
+    android:background="@android:color/white"
+    android:orientation="vertical"
+    android:padding="5dp">
+
+
+
+    <TextView
+        android:id="@+id/tv_question_interview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#7f8c8d"
+        android:text="Do you know me!"
+        android:textSize="16dp" />
+
+</LinearLayout>

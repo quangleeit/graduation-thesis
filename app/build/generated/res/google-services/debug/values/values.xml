@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">718678787050-5q7pmf0cvb0m123epk1d1040pr1de0fb.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://it-security-learning.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">718678787050</string>
+    <string name="google_api_key" translatable="false">AIzaSyD9_M46LwIPjDlSisQivNmPj9cCoPxWBcg</string>
+    <string name="google_app_id" translatable="false">1:718678787050:android:49df8396c7760ea2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD9_M46LwIPjDlSisQivNmPj9cCoPxWBcg</string>
+    <string name="google_storage_bucket" translatable="false">it-security-learning.appspot.com</string>
+</resources>
